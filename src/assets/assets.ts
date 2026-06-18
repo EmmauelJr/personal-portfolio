@@ -81,12 +81,12 @@ export const highlights = [
 
 export const projects = [
     {
-        title: 'Hotel-Booking',
+        title: 'AIE Collection',
         description:
-            'It is a service that allows user to search, compare, and reserve hotel rooms online. It provides details on pricing, availability, and amenities, making it easy for travelers to find and book comfortable accommodations for their trips.',
+            'AIE Collection is a modern fashion and lifestyle brand that offers stylish and affordable clothing for different tastes and occasions. It focuses on quality designs, trendy outfits, and a smooth shopping experience for customers.',
         image: project1,
-        tags: ['React', 'Javascript', 'NodeJS', 'Clerk', 'React-dom', 'React-router-dom'],
-        github: 'https://hotel-booking-seven-green.vercel.app/',
+        tags: ['React', 'Javascript', 'React-dom', 'React-router-dom', 'lucide-react', 'tailwindcss', 'react-toastify'],
+        github: 'https://aie-collection.vercel.app/',
     },
     {
         title: 'CarRental',
@@ -97,20 +97,20 @@ export const projects = [
         github: 'https://cars-eight-omega.vercel.app/',
     },
     {
-        title: 'QuickCart',
+        title: 'Agency-AI',
         description:
-            'It is a modern e-commerce platform that allows users to browse products, add items to their cart, and complete purchases quickly and securely. It provides a smooth, shopping experience with an intuitive interface, efficient product management, and seamless checkout functionality.',
+            'Agency-AI is an AI-powered agency platform that helps businesses automate tasks, manage workflows, and improve productivity. It provides smart tools for content creation, customer support, and digital operations, making business processes faster and more efficient.',
         image: project3,
-        tags: ['React', 'React-dom', 'React-hot-toast', 'tailwindcss', 'React-router-dom'],
-        github: 'https://quick-cart-two-gilt.vercel.app/',
+        tags: ['React', 'React-dom', 'React-hot-toast', 'tailwindcss', 'motion', 'picomatch', 'remove-node-modules'],
+        github: 'https://agency-ai-chi-flame.vercel.app/',
     },
     {
-        title: 'gocart',
+        title: 'CodeFlow',
         description: 
-            'It is a fast and user-friendly e-commerce platform that allows users to browser products, add items to their cart, and make secure purchases. It is designed to provide a smooth and convenient online shopping experience with quick navigation and easy checkout.',
+            'CodeFlow is a developer- focused platform designed to simplify coding, collaboration, and project management. It helps programmers write, organize, and deploy code efficiently with smooth workflows and modern development tools.',
         image: project4,
-        tags: ['React', 'redux.js', 'lucide-react', 'react-dom', 'react-redux', 'react-dom', 'react-router-dom', 'recharts', 'tailwindcss'],
-        github: 'https://gocart-jg7i.vercel.app/',
+        tags: ['React', 'motion', 'lucide-react', 'react-dom', 'react-syntax-highlighter', 'tailwindcss'],
+        github: 'https://codeflow-mauve-nu.vercel.app/',
     },
 ];
 
