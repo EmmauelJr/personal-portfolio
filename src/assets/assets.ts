@@ -86,7 +86,6 @@ export const projects = [
             'It is a service that allows user to search, compare, and reserve hotel rooms online. It provides details on pricing, availability, and amenities, making it easy for travelers to find and book comfortable accommodations for their trips.',
         image: project1,
         tags: ['React', 'Javascript', 'NodeJS', 'Clerk', 'React-dom', 'React-router-dom'],
-        link: '#',
         github: 'https://hotel-booking-seven-green.vercel.app/',
     },
     {
@@ -95,7 +94,6 @@ export const projects = [
             'It is a convenient service that allows customers to rent vehicles for personal or business use. It offers a variety of cars to choose from, flexible booking options, and affordable pricing, making transportation easy and accessible.',
         image: project2,
         tags: ['React', 'tailwindcss', 'react-hot-toast', 'react-icons', 'react-router-dom',],
-        link: '#',
         github: 'https://cars-eight-omega.vercel.app/',
     },
     {
@@ -104,7 +102,6 @@ export const projects = [
             'It is a modern e-commerce platform that allows users to browse products, add items to their cart, and complete purchases quickly and securely. It provides a smooth, shopping experience with an intuitive interface, efficient product management, and seamless checkout functionality.',
         image: project3,
         tags: ['React', 'React-dom', 'React-hot-toast', 'tailwindcss', 'React-router-dom'],
-        link: '#',
         github: 'https://quick-cart-two-gilt.vercel.app/',
     },
     {
@@ -113,7 +110,6 @@ export const projects = [
             'It is a fast and user-friendly e-commerce platform that allows users to browser products, add items to their cart, and make secure purchases. It is designed to provide a smooth and convenient online shopping experience with quick navigation and easy checkout.',
         image: project4,
         tags: ['React', 'redux.js', 'lucide-react', 'react-dom', 'react-redux', 'react-dom', 'react-router-dom', 'recharts', 'tailwindcss'],
-        link: '#',
         github: 'https://gocart-jg7i.vercel.app/',
     },
 ];
